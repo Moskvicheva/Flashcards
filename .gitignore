@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/production/classes/
+/Problems/Mutable geometric shapes/out/
+/Problems/Mutable geometric shapes/out/production/classes/
